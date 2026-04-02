@@ -193,7 +193,7 @@ While the project did not aim to quantify dollar savings directly, it establishe
 
 ---
 
-## 🔥 End-to-End Architecture
+## End-to-End Architecture
 
 ```
 Data Sources (EHR / Billing Systems)
@@ -230,7 +230,7 @@ Power BI Dashboards
 
 ---
 
-## 📊 Results & ROI
+## Results & ROI
 
 - Enabled **proactive denial prevention strategy**  
 - Identified high-risk claims before submission  
