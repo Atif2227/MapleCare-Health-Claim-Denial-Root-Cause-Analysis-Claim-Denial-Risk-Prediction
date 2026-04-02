@@ -128,10 +128,11 @@ While the project did not aim to quantify dollar savings directly, it establishe
 
 ### Data Modeling
 
+- Designed a **Star Schema**
+
 ### Data Model
 ![](Images/0007.jpg)
 
-- Designed a **Star Schema**
 
 **Fact Table**
 - `fact_claim_line`
