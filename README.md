@@ -51,20 +51,6 @@ As a result, revenue cycle teams were spending significant effort **after denial
 Healthcare providers face significant revenue leakage due to insurance claim denials caused by:
 
 ---
-
-## Objectives – What Success Looked Like
-The objective of the project was to move from **reactive denial reporting** to **proactive, insight driven revenue cycle management**. Success was defined not by building dashboards or models in isolation, but by delivering **actionable clarity across strategic, operational, and analytical levels**.
-
-Specifically, the project aimed to:
--	Provide **clear visibility into denial and revenue risk drivers** across payers, facilities, providers, procedures, and diagnoses.
--	Establish a** governed data model** that supports both analytics and machine learning use cases without leakage or misuse.
--	Enable **early identification of high risk claims** using pre submission information, supporting prioritization rather than automation.
--	Support different stakeholder needs through** role specific dashboards**, from executive oversight to operational drill downs.
--	Ensure all outputs are **interpretable, defensible, and realistically usable** in a healthcare revenue cycle context.
-
-Success was achieved if leadership could understand where risk concentrates, operations teams could see what to act on first, and analytical outputs could be trusted to reflect **real world decision support**, not inflated or theoretical performance.
-
----
 ## Objectives – What Success Looked Like
 The objective of the project was to move from **reactive denial reporting** to **proactive, insight driven revenue cycle management**. Success was defined not by building dashboards or models in isolation, but by delivering **actionable clarity across strategic, operational, and analytical levels**.
 
@@ -140,9 +126,6 @@ While the project did not aim to quantify dollar savings directly, it establishe
 
 ---
 
-
----
-
 ### Data Modeling
 
 - Designed a **Star Schema**
@@ -156,7 +139,9 @@ While the project did not aim to quantify dollar savings directly, it establishe
 - `dim_provider`  
 - `dim_payer`  
 - `dim_facility`  
-- `dim_denial_reason`  
+- `dim_denial_reason`
+- `dim_cpt`
+- `dim_icd`
 
 ---
 
