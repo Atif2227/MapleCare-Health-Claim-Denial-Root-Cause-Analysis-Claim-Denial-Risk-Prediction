@@ -2,7 +2,7 @@
 Built an end-to-end healthcare analytics solution to analyze claim denials and predict high-risk claims using ML. Enabled proactive risk prioritization, improved revenue visibility, and delivered realistic, governance-driven insights through Power BI dashboards.
 
 
-**Role:** Lead Data Consultant & AI Architect  
+**Role:** Lead Healthcare Data Analyst, Consultant & AI Architect  
 **Domain:** Healthcare Revenue Cycle Analytics  
 **Objective:** Identify denial drivers and predict high-risk claims pre-submission using Machine Learning  
 
@@ -261,5 +261,14 @@ project-root/
 ├── images/              # Dashboard screenshots
 └── README.md            # Documentation
 ```
+---
 
+## 👤 Consultant
+
+**Atif Noorul Hasan** <br />
+Healthcare Analytics Consultant <br />
+Business Intelligence | Data Analytics | Dashboard Design <br />
+
+🔗 Website – https://atifdata.com <br />
+✉️ Email – atif@atifdata.com
 
