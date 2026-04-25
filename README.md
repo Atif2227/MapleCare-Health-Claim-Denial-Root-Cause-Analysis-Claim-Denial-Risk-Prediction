@@ -37,7 +37,7 @@ The project therefore aimed to bridge the gap between **financial reporting, ope
 
 ---
 
-## ⚠️ Problem - The Specific Challenge or Gap
+## 🛑 Problem Statement - The Specific Challenge or Gap
 Despite having detailed billing and claims data, the organization lacked **clear, actionable insight into denial drivers and revenue risk**. Existing reports showed what was denied and how much was lost, but not why those denials were occurring or where interventions would be most effective.
 
 Key gaps included:
@@ -65,7 +65,7 @@ Success was achieved if leadership could understand where risk concentrates, ope
 
 ---
 
-## Approach / Solution – What Was Done and Why
+## ✔ Solution/Approach – What Was Done and Why
 The approach was designed to address the business problem **end to end**, ensuring that analytical depth, data governance, and usability were treated as equally important. Rather than starting with dashboards or models, the solution was structured around **decision needs** and built backward from those requirements.
 
 First, a **clean, transaction level data architecture** was established using a star schema model. Claim lines were identified as the correct analytical grain, with procedures (CPT) and diagnoses (ICD) modeled explicitly as dimensions. This structure ensured that financial, operational, and clinical perspectives could be analyzed together without duplicating logic or inflating results.
